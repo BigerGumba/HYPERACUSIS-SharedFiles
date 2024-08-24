@@ -1,0 +1,32 @@
+Hello and welcome to the digital archive of my Video Game Passion Project, also known as Hyperacusis!
+This repository contains a playable (but very much incomplete) demo build of the game, and some clips of the game at various stages of development.
+
+Features currently implemented into the demo (v0.0.0) build include:
+-Main Menu(incomplete)
+-Functionable inventory and items
+-Doors (comes in normal/swinging and locked/unlocked types; also makes a sound when using)
+-Multiple wall/floor/ceiling types and furniture
+-*Volume Mechanic*
+  -Various player actions and outside forces will increment volume (currently, only way of doing so is using the Energy Drink item); If the Volume Bar stays at 100% for_long enough, you lose
+-Game Over Screen **MILD BLOOD/GORE WARNING**
+-Tablets (only the Red one (math) works)
+-Difficulty settings (currently cannot be changed; some features accessible at higher/lower difficulties exist but are unimplemented)
+
+Planned features include:
+-More Items, Furnitures, and other decorative textures
+-More SFX and Musics
+-More Subjects
+-Settings (settings exist in_the code but cannot be edited in_game)
+-NavMesh agents
+-Spooky effects!!1!
+-Cutscenes
+
+**PLAYER CONTROLS**
+  -WASD or IJKL to move
+  -Mouse to look around
+  -LMB or E key to Interact (pick up items, open doors, etc)
+  -RMB or Q to use the currently selected item (with the Restroom Key, face the door before using)
+  -Scroll Wheel or 1/2/3/4 to switch inventory slot
+  -Hold SHIFT to run (watch your Stamina!)
+  -Hold CONTROL to cover ears (intentionally prevents interaction; currently useless)
+  -While in tablets, press BACKSPACE to clear the answer ENTER to submit it (or just use your mouse); answering all 3 examples will make you exit automatically
