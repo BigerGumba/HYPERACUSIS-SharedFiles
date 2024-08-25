@@ -9,7 +9,7 @@ Features currently implemented into the demo (v0.0.0) build include:
 -*Volume Mechanic*
   -Various player actions and outside forces will increment volume (currently, only way of doing so is using the Energy Drink item); If the Volume Bar stays at 100% for_long enough, you lose
 -Game Over Screen **BLOOD/GORE WARNING**
--Tablets (only the Red one (math) works)
+-Tablets (only the Red (math) and Blue (science) tablets work)
 -Difficulty settings (currently cannot be changed; some features accessible at higher/lower difficulties exist but are unimplemented)
 
 Planned features include:
@@ -29,4 +29,4 @@ Planned features include:
   -Scroll Wheel or 1/2/3/4 to switch inventory slot
   -Hold SHIFT to run (watch your Stamina!)
   -Hold CONTROL to cover ears (intentionally prevents interaction; currently useless)
-  -While in tablets, press SHIFT to clear the answer and ENTER to submit it (or just use your mouse to click the buttons); answering all 3 examples will make you exit automatically
+  -While in tablets, press SHIFT to clear the answer and ENTER to submit it (or just click the buttons); answering all 3 examples will make you exit automatically
