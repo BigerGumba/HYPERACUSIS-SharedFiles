@@ -1,7 +1,17 @@
 Hello and welcome to the digital archive of my Video Game Passion Project, also known as Hyperacusis!
 This repository contains a playable (but very much incomplete) demo build of the game, and some clips of the game at various stages of development.
 
-Features currently implemented into the demo (v0.0.0) build include:
+
+UPDATE v0.1.0 CHANGELOG
+-Made the Main Menu look a bit better
+-Created the entire school map- will have more decorations and structures by v1.0.0
+-Added lighting to the main map so you don't have to crank up your brightness. BBiEaL's chunk-based system will come later
+-Added a fog effect that appears after solving the first tablet outside of Free Run difficulty; it will intensify the higher the volume bar gets!
+-Added the Pill item and the (currently useless) Coin item
+-Improved View Bobbing
+
+
+v0.0.0 FEATURES
 -Main Menu(incomplete)
 -Functionable inventory and items
 -Doors (comes in normal/swinging and locked/unlocked types; also makes a sound when using)
