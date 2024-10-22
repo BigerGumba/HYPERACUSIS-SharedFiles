@@ -9,7 +9,7 @@ UPDATE v0.2.0 CHANGELOG
 -Added Vending Machines. Use the new Banknote item to buy snacks such as Pretzels (1 note) and Energy Drinks (2 notes)! (right click with Banknotes to insert them, left click on the machine to take an item)
 -Added the Smoke Can item, which boosts movement speed and makes you invincible for 7 seconds. It makes a lot of noise, however.
 
-v0.2.1 will come next, which will rebalance the existing subjects and add environment pausing to Basic mode.
+v0.2.1 will come next, which will rebalance the existing subjects and add environment pausing to Basic difficulty.
 
 
 UPDATE v0.1.0 CHANGELOG
