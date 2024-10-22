@@ -1,6 +1,16 @@
 Hello and welcome to the digital archive of my Video Game Passion Project, also known as Hyperacusis!
 This repository contains a playable (but very much incomplete) demo build of the game, and some clips of the game at various stages of development.
 
+UPDATE v0.2.0 CHANGELOG
+-Added the Teacher! Of course the current sprite and jumpscare sound effect are placeholders, but their general Chasing AI is essentially finished!
+-Added English subject, although the method of answering questions is currently too slow and will be adjusted in the future.
+-Rebuilt the Structuring system from the ground up, allowing for more dynamic structures
+-Added chairs for the lonely desks
+-Added Vending Machines. Use the new Banknote item to buy snacks such as Pretzels (1 note) and Energy Drinks (2 notes)! (right click with Banknotes to insert them, left click on the machine to take an item)
+-Added the Smoke Can item, which boosts movement speed and makes you invincible for 7 seconds. It makes a lot of noise, however.
+
+v0.2.1 will come next, which will rebalance the existing subjects and add environment pausing to Basic mode.
+
 
 UPDATE v0.1.0 CHANGELOG
 -Made the Main Menu look a bit better
