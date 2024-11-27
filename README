@@ -1,6 +1,17 @@
 Hello and welcome to the digital archive of my Video Game Passion Project, also known as Hyperacusis!
 This repository contains a playable (but very much incomplete) demo build of the game, and some clips of the game at various stages of development.
 
+UPDATE v0.2.1 CHANGELOG
+-Basic difficulty is fully functional woohoo
+-Added the impossible questions for Science and English; Math's impossible question will come in the next update
+-Unscrambling English sentences is now done by swapping the positions of two pieces at a time
+-Science tablets now have a feedback panel which tells you what the correct answer was for a brief moment after pressing "submit". This not only allows players to master Science through memorization but also makes Science tablets less easy as you're now forced to spend more time in them.
+-Removed the Teacher's Debug trail. oops
+-Made the Teacher's Thump sound be quieter on higher difficulties and less audible overall.
+-Doors now have a wider detection range for closing, making them easier to open
+
+I promise to bring back all furniture back by the next update
+
 UPDATE v0.2.0 CHANGELOG
 -Added the Teacher! Of course the current sprite and jumpscare sound effect are placeholders, but their general Chasing AI is essentially finished!
 -Added English subject, although the method of answering questions is currently too slow and will be adjusted in the future.
