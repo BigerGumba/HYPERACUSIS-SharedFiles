@@ -1,6 +1,12 @@
 Hello and welcome to the digital archive of my Video Game Passion Project, also known as Hyperacusis!
 This repository contains a playable (but very much incomplete) demo build of the game, and some clips of the game at various stages of development.
 
+UPDATE v0.3.0 CHANGELOG
+-Added the Mug item, which can be used on the new Coffee Machine object to turn it into Coffee. Give the Coffee to the Teacher (like An Apple for Baldi) to cause them to retreat to the faculty lounge for some time. 
+-Added Paper Airplanes, another defensive item which can be thrown at the Teacher to cause them to catch it and take time to put it in the nearest trash can.
+-The legs of the Science Desk and Teacher Desk objects are now low-poly
+-Added a table object
+
 UPDATE v0.2.1 CHANGELOG
 -Basic difficulty is fully functional woohoo
 -Added the impossible questions for Science and English; Math's impossible question will come in the next update
