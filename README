@@ -2,8 +2,11 @@ Hello and welcome to the digital archive of my Video Game Passion Project, also 
 This repository contains a playable (but very much incomplete) demo build of the game, and some clips of the game at various stages of development.
 
 UPDATE v0.3.0 CHANGELOG
+-Changed the appearance of the Teacher to a different placeholder that fits the style of the game better lol
 -Added the Mug item, which can be used on the new Coffee Machine object to turn it into Coffee. Give the Coffee to the Teacher (like An Apple for Baldi) to cause them to retreat to the faculty lounge for some time. 
--Added Paper Airplanes, another defensive item which can be thrown at the Teacher to cause them to catch it and take time to put it in the nearest trash can.
+-Added Paper Airplanes, another defensive item which can be thrown at the Teacher to cause them to catch it and take time to put it in the nearest trash can. (the Teacher becomes unable to end the game only AFTER they start moving)
+-New sounds for vending machines, the Pretzels item, and aforementioned trash cans.
+-Interacting with the exit door with 12/12 tablets now returns the player to the title screen (a real ending is obviously planned for v1.0).
 -The legs of the Science Desk and Teacher Desk objects are now low-poly
 -Added a table object
 
