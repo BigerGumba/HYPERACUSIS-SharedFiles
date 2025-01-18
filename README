@@ -5,10 +5,16 @@ UPDATE v0.3.0 CHANGELOG
 -Changed the appearance of the Teacher to a different placeholder that fits the style of the game better lol
 -Added the Mug item, which can be used on the new Coffee Machine object to turn it into Coffee. Give the Coffee to the Teacher (like An Apple for Baldi) to cause them to retreat to the faculty lounge for some time. 
 -Added Paper Airplanes, another defensive item which can be thrown at the Teacher to cause them to catch it and take time to put it in the nearest trash can. (the Teacher becomes unable to end the game only AFTER they start moving)
+-Added Drinking Fountains which can generate a pool of water to slip up the Teacher if a Bill is inserted.
+-Replaced the old test map with a new one designed specifically to test all these new mechanics!
+
 -New sounds for vending machines, the Pretzels item, and aforementioned trash cans.
--Interacting with the exit door with 12/12 tablets now returns the player to the title screen (a real ending is obviously planned for v1.0).
+-Interacting with the exit door with all tablets in a level now returns the player to the title screen (a real ending is obviously planned for v1.0).
 -The legs of the Science Desk and Teacher Desk objects are now low-poly
 -Added a table object
+-Other extremely minor changes
+
+On another note, now that the game has an ending and is fully beatable, development has now entered the Beta phase.
 
 UPDATE v0.2.1 CHANGELOG
 -Basic difficulty is fully functional woohoo
@@ -16,7 +22,7 @@ UPDATE v0.2.1 CHANGELOG
 -Unscrambling English sentences is now done by swapping the positions of two pieces at a time
 -Science tablets now have a feedback panel which tells you what the correct answer was for a brief moment after pressing "submit". This not only allows players to master Science through memorization but also makes Science tablets less easy as you're now forced to spend more time in them.
 -Removed the Teacher's Debug trail. oops
--Made the Teacher's Thump sound be quieter on higher difficulties and less audible overall.
+-Made the Teacher's Thump sound quieter on higher difficulties and less audible overall.
 -Doors now have a wider detection range for closing, making them easier to open
 
 I promise to bring back all furniture back by the next update
