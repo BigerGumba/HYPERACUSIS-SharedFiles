@@ -8,6 +8,7 @@ UPDATE v0.3.0 CHANGELOG
 -Added Drinking Fountains which can generate a pool of water to slip up the Teacher if a Bill is inserted.
 -Replaced the old test map with a new one designed specifically to test all these new mechanics!
 
+-Added a logo to the Main Menu
 -New sounds for vending machines, the Pretzels item, and aforementioned trash cans.
 -Interacting with the exit door with all tablets in a level now returns the player to the title screen (a real ending is obviously planned for v1.0).
 -The legs of the Science Desk and Teacher Desk objects are now low-poly
