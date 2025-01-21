@@ -2,20 +2,30 @@ Hello and welcome to the digital archive of my Video Game Passion Project, also 
 This repository contains a playable (but very much incomplete) demo build of the game, and some clips of the game at various stages of development.
 
 UPDATE v0.3.0 CHANGELOG
+New Teacher Interactions:
 -Changed the appearance of the Teacher to a different placeholder that fits the style of the game better lol
 -Added the Mug item, which can be used on the new Coffee Machine object to turn it into Coffee. Give the Coffee to the Teacher (like An Apple for Baldi) to cause them to retreat to the faculty lounge for some time. 
 -Added Paper Airplanes, another defensive item which can be thrown at the Teacher to cause them to catch it and take time to put it in the nearest trash can. (the Teacher becomes unable to end the game only AFTER they start moving)
 -Added Drinking Fountains which can generate a pool of water to slip up the Teacher if a Bill is inserted.
 -Replaced the old test map with a new one designed specifically to test all these new mechanics!
 
--Added a logo to the Main Menu
+Other:
+-Added a logo to the Main Menu as well as a Credits page (Menu's still far from done)
 -New sounds for vending machines, the Pretzels item, and aforementioned trash cans.
 -Interacting with the exit door with all tablets in a level now returns the player to the title screen (a real ending is obviously planned for v1.0).
 -The legs of the Science Desk and Teacher Desk objects are now low-poly
--Added a table object
+-New Advanced variant of the Energy Drink
+-Answering questions incorrectly is now more punishing on Volume
+-Fixed a bug where spamming "Submit" on Science tablets cheeses them
+-New Furniture Objects:
+	-Coffee Machine
+	-Round Table
+	-Whiteboard (multiple variations)
 -Other extremely minor changes
 
 On another note, now that the game has an ending and is fully beatable, development has now entered the Beta phase.
+
+Minor updates to this version will consist of making the game look better and removing placeholders. v0.4.0 will focus on adding some new characters that will add more... functionality... to the Volume meter.
 
 UPDATE v0.2.1 CHANGELOG
 -Basic difficulty is fully functional woohoo
@@ -47,10 +57,12 @@ UPDATE v0.1.0 CHANGELOG
 -Added the Pill item and the (currently useless) Coin item
 -Improved View Bobbing
 
+UPDATE v0.0.1 CHANGELOG (late but relevant)
+-Fixed missing textures
 
 v0.0.0 FEATURES
 -Main Menu(incomplete)
--Functionable inventory and items
+-Functional inventory and items
 -Doors (comes in normal/swinging and locked/unlocked types; also makes a sound when using)
 -Multiple wall/floor/ceiling types and furniture
 -*Volume Mechanic*
