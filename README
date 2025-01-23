@@ -16,6 +16,8 @@ Other:
 -The legs of the Science Desk and Teacher Desk objects are now low-poly
 -New Advanced variant of the Energy Drink
 -Answering questions incorrectly is now more punishing on Volume
+-Nerfed English subject. Now each module has one less box, making the first English tablet(s) quite easy but the last one(s) hard but much less nerve-wracking than before.
+	-To accommodate this new feature the impossible English question was also changed. One might find the old texture to be better, and I agree, but the distortion will probably be created with a Shader effect in the future. Also currently thinking about reworking the animation of English's impossible problem, maybe all the boxes would pop up? idk
 -Fixed a bug where spamming "Submit" on Science tablets cheeses them
 -New Furniture Objects:
 	-Coffee Machine
