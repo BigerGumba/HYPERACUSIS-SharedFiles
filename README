@@ -6,7 +6,7 @@ New Teacher Interactions:
 -Changed the appearance of the Teacher to a different placeholder that fits the style of the game better lol
 -Added the Mug item, which can be used on the new Coffee Machine object to turn it into Coffee. Give the Coffee to the Teacher (like An Apple for Baldi) to cause them to retreat to the faculty lounge for some time. 
 -Added Paper Airplanes, another defensive item which can be thrown at the Teacher to cause them to catch it and take time to put it in the nearest trash can. (the Teacher becomes unable to end the game only AFTER they start moving)
--Added Drinking Fountains which can generate a pool of water to slip up the Teacher if a Bill is inserted.
+-Added Drinking Fountains which can generate a pool of water to slip up the Teacher if a Banknote is inserted.
 -Replaced the old test map with a new one designed specifically to test all these new mechanics!
 
 Other:
@@ -17,7 +17,7 @@ Other:
 -New Advanced variant of the Energy Drink
 -Answering questions incorrectly is now more punishing on Volume
 -Nerfed English subject. Now each module has one less box, making the first English tablet(s) quite easy but the last one(s) hard but much less nerve-wracking than before.
-	-To accommodate this new feature the impossible English question was also changed. One might find the old texture to be better, and I agree, but the distortion will probably be created with a Shader effect in the future. Also currently thinking about reworking the animation of English's impossible problem, maybe all the boxes would pop up? idk
+	-To accommodate this new feature the impossible English question was also changed. One might find the old texture to be better, and I agree, but the distortion will probably be created with a Shader effect in the future.
 -Fixed a bug where spamming "Submit" on Science tablets cheeses them
 -New Furniture Objects:
 	-Coffee Machine
