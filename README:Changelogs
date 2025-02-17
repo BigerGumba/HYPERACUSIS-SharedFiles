@@ -13,8 +13,9 @@ Other:
 -Added a logo to the Main Menu as well as a Credits page (Menu's still far from done)
 -New sounds for vending machines, the Pretzels item, and aforementioned trash cans.
 -Interacting with the exit door with all tablets in a level now returns the player to the title screen (a real ending is obviously planned for v1.0).
+-Replaced most furniture
 -The legs of the Science Desk and Teacher Desk objects are now low-poly
--New Advanced variant of the Energy Drink
+-New Advanced variants of the Energy Drink and Smoke Can
 -Answering questions incorrectly is now more punishing on Volume
 -Nerfed English subject. Now each module has one less box, making the first English tablet(s) quite easy but the last one(s) hard but much less nerve-wracking than before.
 	-To accommodate this new feature the impossible English question was also changed. One might find the old texture to be better, and I agree, but the distortion will probably be created with a Shader effect in the future.
