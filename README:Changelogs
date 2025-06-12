@@ -5,6 +5,7 @@ UPDATE v0.3.1 CHANGELOG
 -Added new chair type for Science desks
 -Fixed bugs with Science
 -Added Easels in Art rooms
+-Added Lecterns in a few places
 -Added Computers in the Computer Lab
 -Added furniture to Library (still incomplete though :P)
 -Teacher now avoids furniture
