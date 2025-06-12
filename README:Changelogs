@@ -1,6 +1,19 @@
 Hello and welcome to the digital archive of my Video Game Passion Project, also known as Hyperacusis!
 This repository contains a playable (but very much incomplete) demo build of the game, and some clips of the game at various stages of development.
 
+UPDATE v0.3.1 CHANGELOG
+-Added new chair type for Science desks
+-Fixed bugs with Science
+-Added Easels in Art rooms
+-Added Computers in the Computer Lab
+-Added furniture to Library (still incomplete though :P)
+-Teacher now avoids furniture
+-Added Pause/Menu transitions
+-Added a new item which boosts Stamina without affecting noise
+-Added use sound effects for Pretzels
+
+This is a pretty minor update and it's a shame that it took so long, but now that school is over development will hopefully become steady again.
+
 UPDATE v0.3.0 CHANGELOG
 New Teacher Interactions:
 -Changed the appearance of the Teacher to a different placeholder that fits the style of the game better lol
