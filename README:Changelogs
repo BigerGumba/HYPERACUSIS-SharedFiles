@@ -1,5 +1,13 @@
 Hello and welcome to the digital archive of my Video Game Passion Project, also known as Hyperacusis!
-This repository contains a playable (but very much incomplete) demo build of the game, and some clips of the game at various stages of development.
+This repository contains multiple Alpha versions of the game as well as some extremely early demo footage.
+(WARNING: Game contains light blood/gore and allusions to trauma and self-harm, along with jumpscares) 
+
+UPDATE v0.3.2 CHANGELOG
+-Replaced the Stamina Bar textures with more stylistically consistent ones
+-Replaced the boring Tablet counter with something more akin to BB+
+-Added a crosshair and tooltips that appear when facing interactable objects, similar to those in AEwVS. Both the crosshair and tips can be disabled in the Options menu.
+-You can now leave the School at any time on Free-Run difficulty
+-Audio now becomes muffled when covering your ears by pressing Ctrl. Doing this also now slows you down more while protecting you more from noise.
 
 UPDATE v0.3.1 CHANGELOG
 -Added new chair type for Science desks
@@ -26,7 +34,7 @@ New Teacher Interactions:
 Other:
 -Settings now FINALLY save between sessions!
 -Added a logo to the Main Menu as well as a Credits page (Menu's still far from done)
--New sounds for vending machines, the Pretzels item, and aforementioned trash cans.
+-New sounds for vending machines and the aforementioned trash cans.
 -Interacting with the exit door with all tablets in a level now returns the player to the title screen (a real ending is obviously planned for v1.0).
 -Replaced most furniture
 -The legs of the Science Desk and Teacher Desk objects are now low-poly
@@ -34,7 +42,7 @@ Other:
 -Answering questions incorrectly is now more punishing on Volume
 -Added Math impossible problem. When you get to it, try to type in an answer! (as a reminder you gotta go into settings and change "ALL SUBJECTS" to "[name] ONLY" to see the different impossible problems)
 -Nerfed English subject. Now each module has one less box, making the first English tablet(s) quite easy but the last one(s) hard but much less nerve-wracking than before.
-	-To accommodate this new feature the impossible English question was also changed. One might find the old texture to be better, and I agree, but the distortion will probably be created with a Shader effect in the future.
+	-To accommodate this new feature the impossible English question was also changed. One might find the old texture to be better, and I agree, but the distortion will probably be created with a Shader in the future.
 -Fixed a bug where spamming "Submit" on Science tablets cheeses them
 -New Furniture Objects:
 	-Coffee Machine
@@ -53,7 +61,7 @@ UPDATE v0.2.1 CHANGELOG
 -Made the Teacher's Thump sound quieter on higher difficulties and less audible overall.
 -Doors now have a wider detection range for closing, making them easier to open
 
-I promise to bring back all furniture back by the next update
+I promise to bring back all furniture back by the next update (future gumba is disappointed in you)
 
 UPDATE v0.2.0 CHANGELOG
 -Added the Teacher! Of course the current sprite and jumpscare sound effect are placeholders, but their general Chasing AI is essentially finished!
@@ -69,8 +77,8 @@ v0.2.1 will come next, which will rebalance the existing subjects and add enviro
 UPDATE v0.1.0 CHANGELOG
 -Made the Main Menu look a bit better
 -Created the entire school map- will have more decorations and structures by v1.0.0
--Added lighting to the main map so you don't have to crank up your brightness. BBiEaL's chunk-based system will come later
--Added a fog effect that appears after solving the first tablet outside of Free Run difficulty; it will intensify the higher the volume bar gets!
+-Added lighting to the main map so you don't have to crank up your brightness. BB+'s chunk-based system will come later
+-Added a fog effect that appears after solving the first tablet outside of Free-Run difficulty; it will intensify the higher the volume bar gets!
 -Added the Pill item and the (currently useless) Coin item
 -Improved View Bobbing
 
@@ -83,26 +91,26 @@ v0.0.0 FEATURES
 -Doors (comes in normal/swinging and locked/unlocked types; also makes a sound when using)
 -Multiple wall/floor/ceiling types and furniture
 -*Volume Mechanic*
-  -Various player actions and outside forces will increment volume (currently, only way of doing so is using the Energy Drink item); If the Volume Bar stays at 100% for_long enough, you lose
+  -Various player actions and outside forces will increment volume (currently, only way of doing so is using the Energy Drink item); If the Volume Bar stays at 100% for long enough, you lose
 -Game Over Screen **BLOOD/GORE WARNING**
 -Tablets (only the Red (math) and Blue (science) tablets work)
 -Difficulty settings (currently cannot be changed; some features accessible at higher/lower difficulties exist but are unimplemented)
 
 Planned features include:
 -More Items, Furnitures, and other decorative textures
--More SFX and Musics
--More Subjects
--Settings (settings exist in_the code but cannot be edited in_game)
+-More SFX and Original Music
+-More Subjects (as of v0.3.2 only art is left)
+-Settings
 -NavMesh agents
--Spooky effects!!1!
--Cutscenes
+-Shaders
+-Fully-animated cutscenes
 
 **PLAYER CONTROLS**
   -WASD to move
   -Mouse to look around
   -LMB or E key to Interact (pick up items, open doors, etc)
-  -RMB or Q to use the currently selected item (with the Restroom Key, face the door before using)
+  -RMB or Q to use the currently selected item (some items can only be used when facing a specific object)
   -Scroll Wheel or 1/2/3/4 to switch inventory slot
   -Hold SHIFT to run (watch your Stamina!)
-  -Hold CONTROL to cover ears (intentionally prevents interaction; currently useless)
-  -While in tablets, press SHIFT to clear the answer and ENTER to submit it (or just click the buttons); answering all 3 examples will make you exit automatically
+  -Hold CONTROL to cover ears, which reduces volume gain at the cost of being slower and becoming unable to interact or use items
+  -While in tablets, press SHIFT to clear the answer and ENTER/GUI next button to submit it
