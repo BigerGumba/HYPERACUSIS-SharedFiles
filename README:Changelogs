@@ -10,7 +10,7 @@ UPDATE v0.3.2 CHANGELOG
 -Added an Overlay that appears when using the Pill to better indicate its usage. Also fixed a bug where the Pill's effect would last forever
 -You can now leave the School at any time on Free-Run difficulty
 -Audio now becomes muffled when covering your ears by pressing Ctrl. Doing this also now slows you down more while protecting you more from noise.
--Simplified some object hitboxes to reduce lag
+-Some navigation tweaks that should hopefully reduce lag
 
 UPDATE v0.3.1 CHANGELOG
 -Added new chair type for Science desks
