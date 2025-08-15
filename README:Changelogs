@@ -4,13 +4,17 @@ This repository contains multiple Alpha versions of the game as well as some ext
 
 UPDATE v0.3.2 CHANGELOG
 -Replaced the Stamina Bar textures with more stylistically consistent ones
--Replaced the boring Tablet counter with something that not only looks more interesting but also tracks your progress by subject and module difficulty. However, due to it being difficult to read on smaller screens it can be replaced with the simpler counter in Settings.
--Added a crosshair and tooltips that appear when facing interactable objects, similar to those in AEwVS. Both the crosshair and tips can be disabled in the Options menu.
+-Replaced the boring Tablet counter with something that not only looks more interesting but also tracks your progress by subject and module difficulty. However, due to it being difficult to read on smaller screens it can be replaced with the older counter in Settings.
+-Added an adaptive crosshair and tooltips that appear when facing interactable objects, similar to those in AEwVS. Both the crosshair and tips can be disabled in the Options menu.
 -Updated the Volume meter sprites to remove the semitransparent parts
--Added an Overlay that appears when using the Pill to better indicate its usage. Also fixed a bug where the Pill's effect would last forever
+-Added an Overlay that appears when using the Pill along to better indicate its usage.
+-Added Pill SFX
+-Pills can no longer be used in Free Run Mode for lore reasons (wait what)
+-The Pill's effect now actually ends.
 -You can now leave the School at any time on Free-Run difficulty
--Audio now becomes muffled when covering your ears by pressing Ctrl. Doing this also now slows you down more while protecting you more from noise.
--Some navigation tweaks that should hopefully reduce lag
+-Covering your ears [CTRL] now makes you slower and protects you more. Also added a Vignette effect and Audio muffling when you do it
+-Some navigation tweaks that should hopefully reduce lag in certain areas
+-Chairs are now shaded
 
 UPDATE v0.3.1 CHANGELOG
 -Added new chair type for Science desks
