@@ -1,6 +1,18 @@
 Hello and welcome to the digital archive of my Video Game Passion Project, also known as Hyperacusis!
 This repository contains multiple Alpha versions of the game as well as some extremely early demo footage.
-(WARNING: Game contains light blood/gore and allusions to trauma and self-harm, along with jumpscares) 
+(WARNING: Game contains light blood/gore and allusions to trauma and self-harm, along with jumpscares)
+
+UPDATE v0.3.3 CHANGELOG
+-Added the Intro/Warning Screen, and implemented the "Disable Intro" game Setting, which bypasses the screen when turned on
+-Added Movement tutorials. Can be disabled in Settings.
+-Added Bathroom assets:
+	-Stall Walls/Doors
+	-Sinks
+	-Hand Dryers
+	-Toilet Paper Holders
+	-Toilets
+	-RORRIM EHT NI ERATS T'NOD ,4.0V NI
+-Added Pixelate-In Transition for entering the Main Level
 
 UPDATE v0.3.2 CHANGELOG
 -Replaced the Stamina Bar textures with more stylistically consistent ones
