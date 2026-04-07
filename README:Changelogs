@@ -11,11 +11,13 @@ UPDATE v0.3.3 CHANGELOG
 	-Hand Dryers
 	-Toilet Paper Holders
 	-Toilets
-	-RORRIM EHT NI ERATS T'NOD ,4.0V NI
--Added new desk decorations FOR ALL ROOM TYPES
+	-RORRIM EHT NI GNOL OOT ERATS T'NOD ,4.0V NI
+-Added INTERACTABLE desk decorations FOR ALL ROOM TYPES
 -Added Pixelate-In Transition for entering the Main Level
+-Added a few Posters around hallways
+-Linux build now available!
 
-Reflecting on development, it's still been sluggish but somewhat steady. I don't feel too bad as I'm a full time Undergrad right now, but I still do wish updates could release faster.
+Reflecting on development, it's still been sluggish but somewhat steady. I don't feel too bad as I'm a full time Undergrad right now, but I still do wish updates could release faster. v0.3.4 will be considerably smaller and will focus on adding new SFX
 
 UPDATE v0.3.2 CHANGELOG
 -Replaced the Stamina Bar textures with more stylistically consistent ones
