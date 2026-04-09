@@ -15,6 +15,7 @@ UPDATE v0.3.3 CHANGELOG
 -Added INTERACTABLE desk decorations FOR ALL ROOM TYPES
 -Added Pixelate-In Transition for entering the Main Level
 -Added a few Posters around hallways
+-Altered Flash small item sprite
 -Linux build now available!
 
 Reflecting on development, it's still been sluggish but somewhat steady. I don't feel too bad as I'm a full time Undergrad right now, but I still do wish updates could release faster. v0.3.4 will be considerably smaller and will focus on adding new SFX
