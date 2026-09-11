@@ -1,6 +1,24 @@
 Hello and welcome to the digital archive of my Video Game Passion Project, also known as Hyperacusis!
-This repository contains multiple Alpha versions of the game as well as some extremely early demo footage.
+This repository contains multiple Alpha versions of the game as well as some Behind-The-Scenes screenshots/videos of development.
 (WARNING: Game contains light blood/gore and allusions to trauma and self-harm, along with jumpscares)
+
+DOWNLOAD INSTRUCTIONS
+To play HYPERACUSIS, just download and unzip your zip file of choice. Zip files are formatted as such:
+
+-"HA" is an abbreviation for HyperAcusis, the name of the game.
+-"v" indicates the version, followed by "X.X.X", the version number. Currently, the latest version is v0.3.3.
+-All files end with "w" or "x". If a file ends with "w", it's for Windows, and if it ends with "x", it's for MacOS (Linux builds not available for v0.3.3 and prior)
+
+FOR WINDOWS USERS
+1. Download your desired .zip file ending in "w"
+2. Unzip your file and Extract its contents into a destination of choice
+3. Run Hyperacusis.exe
+
+FOR MACOS USERS
+1. Download your desired .zip file ending in "x"
+2. Right click the file, choose "Unzip", and attempt to launch Hyperacusis.
+3. Because I lack Apple developer certifications, MacOS should initially prevent you from running my game. Select "Open Anyway", or if that option doesn't appear, navigate to System Settings -> Privacy & Security and scroll to the bottom of the page. You should find the option to open the game there, so click it, enter your User's Password, and the game will open.
+4. Now you'll be able to skip Step 3 on subsequent Launches, unless you update or otherwise redownload the game.
 
 UPDATE v0.3.3 CHANGELOG
 -Added the Intro/Warning Screen, and implemented the "Disable Intro" game Setting, which bypasses the screen when turned on
