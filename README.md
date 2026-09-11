@@ -6,8 +6,8 @@ DOWNLOAD INSTRUCTIONS
 To play HYPERACUSIS, just download and unzip your zip file of choice. Zip files are formatted as such:
 
 -"HA" is an abbreviation for HyperAcusis, the name of the game.
--"v" indicates the version, followed by "X.X.X", the version number. Currently, the latest version is v0.3.3.
--All files end with "w" or "x". If a file ends with "w", it's for Windows, and if it ends with "x", it's for MacOS (Linux builds not available for v0.3.3 and prior)
+-"v" indicates the version, followed by "X.X.X", the version number. Currently, the latest version is v0.3.2.
+-All files end with "w" or "x". If a file ends with "w", it's for Windows, and if it ends with "x", it's for MacOS (Linux builds not available for v0.3.2 and prior)
 
 FOR WINDOWS USERS
 1. Download your desired .zip file ending in "w"
@@ -19,24 +19,6 @@ FOR MACOS USERS
 2. Right click the file, choose "Unzip", and attempt to launch Hyperacusis.
 3. Because I lack Apple developer certifications, MacOS should initially prevent you from running my game. Select "Open Anyway", or if that option doesn't appear, navigate to System Settings -> Privacy & Security and scroll to the bottom of the page. You should find the option to open the game there, so click it, enter your User's Password, and the game will open.
 4. Now you'll be able to skip Step 3 on subsequent Launches, unless you update or otherwise redownload the game.
-
-UPDATE v0.3.3 CHANGELOG
--Added the Intro/Warning Screen, and implemented the "Disable Intro" game Setting, which bypasses the screen when turned on
--Added Movement tutorials. Can be disabled in Settings.
--Added Bathroom assets:
-	-Stall Walls/Doors
-	-Sinks
-	-Hand Dryers
-	-Toilet Paper Holders
-	-Toilets
-	-RORRIM EHT NI GNOL OOT ERATS T'NOD ,4.0V NI
--Added INTERACTABLE desk decorations FOR ALL ROOM TYPES
--Added Pixelate-In Transition for entering the Main Level
--Added a few Posters around hallways
--Altered Flash small item sprite
--Linux build now available!
-
-Reflecting on development, it's still been sluggish but somewhat steady. I don't feel too bad as I'm a full time Undergrad right now, but I still do wish updates could release faster. v0.3.4 will be considerably smaller and will focus on adding new SFX
 
 UPDATE v0.3.2 CHANGELOG
 -Replaced the Stamina Bar textures with more stylistically consistent ones
