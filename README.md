@@ -1,0 +1,159 @@
+Hello and welcome to the digital archive of my Video Game Passion Project, also known as Hyperacusis!
+This repository contains multiple Alpha versions of the game as well as some Behind-The-Scenes screenshots/videos of development.
+(WARNING: Game contains light blood/gore and allusions to trauma and self-harm, along with jumpscares)
+
+DOWNLOAD INSTRUCTIONS
+To play HYPERACUSIS, just download and unzip your zip file of choice. Zip files are formatted as such:
+
+-"HA" is an abbreviation for HyperAcusis, the name of the game.
+-"v" indicates the version, followed by "X.X.X", the version number. Currently, the latest version is v0.3.3.
+-All files end with "w" or "x". If a file ends with "w", it's for Windows, and if it ends with "x", it's for MacOS (Linux builds not available for v0.3.3 and prior)
+
+FOR WINDOWS USERS
+1. Download your desired .zip file ending in "w"
+2. Unzip your file and Extract its contents into a destination of choice
+3. Run Hyperacusis.exe
+
+FOR MACOS USERS
+1. Download your desired .zip file ending in "x"
+2. Right click the file, choose "Unzip", and attempt to launch Hyperacusis.
+3. Because I lack Apple developer certifications, MacOS should initially prevent you from running my game. Select "Open Anyway", or if that option doesn't appear, navigate to System Settings -> Privacy & Security and scroll to the bottom of the page. You should find the option to open the game there, so click it, enter your User's Password, and the game will open.
+4. Now you'll be able to skip Step 3 on subsequent Launches, unless you update or otherwise redownload the game.
+
+UPDATE v0.3.3 CHANGELOG
+-Added the Intro/Warning Screen, and implemented the "Disable Intro" game Setting, which bypasses the screen when turned on
+-Added Movement tutorials. Can be disabled in Settings.
+-Added Bathroom assets:
+	-Stall Walls/Doors
+	-Sinks
+	-Hand Dryers
+	-Toilet Paper Holders
+	-Toilets
+	-RORRIM EHT NI GNOL OOT ERATS T'NOD ,4.0V NI
+-Added INTERACTABLE desk decorations FOR ALL ROOM TYPES
+-Added Pixelate-In Transition for entering the Main Level
+-Added a few Posters around hallways
+-Altered Flash small item sprite
+-Linux build now available!
+
+Reflecting on development, it's still been sluggish but somewhat steady. I don't feel too bad as I'm a full time Undergrad right now, but I still do wish updates could release faster. v0.3.4 will be considerably smaller and will focus on adding new SFX
+
+UPDATE v0.3.2 CHANGELOG
+-Replaced the Stamina Bar textures with more stylistically consistent ones
+-Replaced the boring Tablet counter with something that not only looks more interesting but also tracks your progress by subject and module difficulty. However, due to it being difficult to read on smaller screens it can be replaced with the older counter in Settings.
+-Added an adaptive crosshair and tooltips that appear when facing interactable objects, similar to those in AEwVS. Both the crosshair and tips can be disabled in the Options menu.
+-Updated the Volume meter sprites to remove the semitransparent parts
+-Added an Overlay that appears when using the Pill along to better indicate its usage.
+-Added Pill SFX
+-Pills can no longer be used in Free Run Mode for lore reasons (wait what)
+-The Pill's effect now actually ends.
+-You can now leave the School at any time on Free-Run difficulty
+-Covering your ears [CTRL] now makes you slower and protects you more. Also added a Vignette effect and Audio muffling when you do it
+-Some navigation tweaks that should hopefully reduce lag in certain areas
+-Chairs are now shaded
+
+UPDATE v0.3.1 CHANGELOG
+-Added new chair type for Science desks
+-Fixed bugs with Science
+-Added Easels in Art rooms
+-Added Lecterns in a few places
+-Added Computers in the Computer Lab
+-Added furniture to Library (still incomplete though :P)
+-Teacher now avoids furniture
+-Added Pause/Menu transitions
+-Added a new item which boosts Stamina without affecting noise
+-Added use sound effects for Pretzels
+
+This is a pretty minor update and it's a shame that it took so long, but now that school is over development will hopefully become steady again.
+
+UPDATE v0.3.0 CHANGELOG
+New Teacher Interactions:
+-Changed the appearance of the Teacher to a different placeholder that fits the style of the game better lol
+-Added the Mug item, which can be used on the new Coffee Machine object to turn it into Coffee. Give the Coffee to the Teacher (like An Apple for Baldi) to cause them to retreat to the faculty lounge for some time. 
+-Added Paper Airplanes, another defensive item which can be thrown at the Teacher to cause them to catch it and take time to put it in the nearest trash can. (the Teacher becomes unable to end the game only AFTER they start moving)
+-Added Drinking Fountains which can generate a pool of water to slip up the Teacher if a Banknote is inserted.
+-Replaced the old test map with a new one designed specifically to test all these new mechanics!
+
+Other:
+-Settings now FINALLY save between sessions!
+-Added a logo to the Main Menu as well as a Credits page (Menu's still far from done)
+-New sounds for vending machines and the aforementioned trash cans.
+-Interacting with the exit door with all tablets in a level now returns the player to the title screen (a real ending is obviously planned for v1.0).
+-Replaced most furniture
+-The legs of the Science Desk and Teacher Desk objects are now low-poly
+-New Advanced variants of the Energy Drink and Smoke Can
+-Answering questions incorrectly is now more punishing on Volume
+-Added Math impossible problem. When you get to it, try to type in an answer! (as a reminder you gotta go into settings and change "ALL SUBJECTS" to "[name] ONLY" to see the different impossible problems)
+-Nerfed English subject. Now each module has one less box, making the first English tablet(s) quite easy but the last one(s) hard but much less nerve-wracking than before.
+	-To accommodate this new feature the impossible English question was also changed. One might find the old texture to be better, and I agree, but the distortion will probably be created with a Shader in the future.
+-Fixed a bug where spamming "Submit" on Science tablets cheeses them
+-New Furniture Objects:
+	-Coffee Machine
+	-Round Table
+	-Whiteboard (multiple variations)
+-Other extremely minor changes
+
+Minor updates to this version will consist of making the game look better and removing placeholders. v0.4.0 will focus on adding some new characters that will add more... functionality... to the Volume meter.
+
+UPDATE v0.2.1 CHANGELOG
+-Basic difficulty is fully functional woohoo
+-Added the impossible questions for Science and English; Math's impossible question will come in the next update
+-Unscrambling English sentences is now done by swapping the positions of two pieces at a time
+-Science tablets now have a feedback panel which tells you what the correct answer was for a brief moment after pressing "submit". This not only allows players to master Science through memorization but also makes Science tablets less easy as you're now forced to spend more time in them.
+-Removed the Teacher's Debug trail. oops
+-Made the Teacher's Thump sound quieter on higher difficulties and less audible overall.
+-Doors now have a wider detection range for closing, making them easier to open
+
+I promise to bring back all furniture back by the next update (future gumba is disappointed in you)
+
+UPDATE v0.2.0 CHANGELOG
+-Added the Teacher! Of course the current sprite and jumpscare sound effect are placeholders, but their general Chasing AI is essentially finished!
+-Added English subject, although the method of answering questions is currently too slow and will be adjusted in the future.
+-Rebuilt the Structuring system from the ground up, allowing for more dynamic structures
+-Added chairs for the lonely desks
+-Added Vending Machines. Use the new Banknote item to buy snacks such as Pretzels (1 note) and Energy Drinks (2 notes)! (right click with Banknotes to insert them, left click on the machine to take an item)
+-Added the Smoke Can item, which boosts movement speed and makes you invincible for 7 seconds. It makes a lot of noise, however.
+
+v0.2.1 will come next, which will rebalance the existing subjects and add environment pausing to Basic difficulty.
+
+
+UPDATE v0.1.0 CHANGELOG
+-Made the Main Menu look a bit better
+-Created the entire school map- will have more decorations and structures by v1.0.0
+-Added lighting to the main map so you don't have to crank up your brightness. BB+'s chunk-based system will come later
+-Added a fog effect that appears after solving the first tablet outside of Free-Run difficulty; it will intensify the higher the volume bar gets!
+-Added the Pill item and the (currently useless) Coin item
+-Improved View Bobbing
+
+UPDATE v0.0.1 CHANGELOG (late but relevant)
+-Fixed missing textures
+
+v0.0.0 FEATURES
+-Main Menu(incomplete)
+-Functional inventory and items
+-Doors (comes in normal/swinging and locked/unlocked types; also makes a sound when using)
+-Multiple wall/floor/ceiling types and furniture
+-*Volume Mechanic*
+  -Various player actions and outside forces will increment volume (currently, only way of doing so is using the Energy Drink item); If the Volume Bar stays at 100% for long enough, you lose
+-Game Over Screen **BLOOD/GORE WARNING**
+-Tablets (only the Red (math) and Blue (science) tablets work)
+-Difficulty settings (currently cannot be changed; some features accessible at higher/lower difficulties exist but are unimplemented)
+
+Planned features include:
+-More Items, Furnitures, and other decorative textures
+-More SFX and Original Music
+-More Subjects (as of v0.3.2 only art is left)
+-Settings
+-NavMesh agents
+-Shaders
+-Fully-animated cutscenes
+
+**PLAYER CONTROLS**
+  -WASD to move
+  -Mouse to look around
+  -LMB or E key to Interact (pick up items, open doors, etc)
+  -RMB or Q to use the currently selected item (some items can only be used when facing a specific object)
+  -Scroll Wheel or 1/2/3/4 to switch inventory slot
+  -Hold SHIFT to run (watch your Stamina!)
+  -Hold CONTROL to cover ears, which reduces volume gain at the cost of being slower and becoming unable to interact or use items
+  -While in tablets, press SHIFT to clear the answer and ENTER/GUI next button to submit it
